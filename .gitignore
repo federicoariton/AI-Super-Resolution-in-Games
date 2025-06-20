@@ -1,0 +1,5 @@
+echo "data/" >> .gitignore
+
+
+data/
+DIV2K_*/
