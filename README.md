@@ -7,6 +7,8 @@ This project investigates the application of AI-based super-resolution models to
 
 The research is conducted as part of a Master’s level assessment under the Springboard+ MSc in Data Analytics program.
 
+- [Click here to read my Research Paper](https://github.com/federicoariton/AI-Super-Resolution-in-Games/blob/main/Federico_Ariton_sba22090_Lvl9_CA1_Research_paper.pdf)
+
 ---
 
 ## 🧪 Objectives
