@@ -3,7 +3,7 @@ Using Big Data
 
 ## 🎮 Project Overview
 
-This project investigates the application of AI-based super-resolution models to enhance low-resolution visuals in retro video games. It evaluates and compares different models—**SRCNN**, **ESRGAN**, and **Real-ESRGAN**—for their effectiveness in improving image quality from emulated retro games like *Ratchet & Clank 2 (PS2)* and *SuperTux*.
+This project investigates the application of AI-based super-resolution models to enhance low-resolution visuals in retro video games. It evaluates and compares different models—**SRCNN**, **ESRGAN**, and **Real-ESRGAN**—for their effectiveness in improving image quality from emulated retro games like  *SuperTux*.
 
 The research is conducted as part of a Master’s level assessment under the Springboard+ MSc in Data Analytics program.
 
